@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+p {
+    color: red;
+    background-color: black;
+}
+#terserahjangandiikutin {
+    color:white;
+    background-color: green;
+}
+.warnasatu {
+    color: green;
+    background-color: red;
+}
+.warnadua {
+    color: red;
+    background-color: black;
+}
+.warnatiga {
+    color: black;
+    background-color: yellow;
+}
+#kotak-satu {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+#kotak-dua {
+    height: 100px;
+    width: 400px;
+    background-color: blue;
+    margin-bottom: 10px;
+}
+#kotak-tiga {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
